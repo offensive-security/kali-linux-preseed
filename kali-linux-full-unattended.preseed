@@ -1,3 +1,5 @@
+# This preseed files will install a Kali Linux "Full" installation (default ISO) with no questions asked (unattended).
+
 d-i debian-installer/locale string en_US 
 d-i console-keymaps-at/keymap select us 
 d-i mirror/country string enter information manually 
